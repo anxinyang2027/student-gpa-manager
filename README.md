@@ -42,7 +42,7 @@ Java SE、面向对象、继承多态、分层设计、ArrayList、控制台IO
 1. IDEA导入项目
 2. 运行 `szpt.gpa.Main`
 3. 根据控制台提示输入数字选择功能
-4. 
+
 ## 📸 截图
 ![学生GPA列表](./screenshot1.png)
 ![课程详情页面](./screenshot2.png)
