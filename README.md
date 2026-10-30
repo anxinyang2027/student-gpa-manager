@@ -3,17 +3,29 @@ Java SE 控制台学生GPA绩点管理系统，采用分层架构，面向对象
 
 ## 📦 项目结构
 src/
+
 └── szpt.gpa
+
 ├── domain        // 实体层
+
 │   ├── Student.java
+
 │   ├── Course.java
+
 │   ├── RequiredCourse.java  // 必修课程，继承 Course
+
 │   └── ElectiveCourse.java  // 选修课程，继承 Course
+
 ├── service       // 业务逻辑层
+
 │   └── StudentListService.java
+
 ├── view          // 视图与输入输出工具
+
 │   ├── SysMenuView.java
+
 │   └── IOUtil.java
+
 └── Main.java     // 程序入口
 
 ## ✨ 功能
